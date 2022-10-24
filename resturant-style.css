@@ -50,4 +50,41 @@ h5{
     display: flex;
     justify-content:space-around;
     margin-top:100px;
+}.a{
+    height: 250px;
+    width: 250px;
+}
+.b{
+    display: flex;
+    justify-content: center;
+}
+.beef-1{
+    display: flex;
+    justify-content: space-around;
+    margin-top:150px;
+}
+
+.button-2{
+    background-color:#F34949;
+    border-radius:30px;
+    padding:9px 25px;
+    border-color:#F34949;
+    color:white;
+}
+.button-2:hover{
+    background-color: #f70707;
+}
+.one{
+    margin-top: 100px;
+    margin-left:120px;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+    margin-top:80px;
+    margin-bottom: ;
+}
+.two{
+    margin-left:885px;
+    margin-top: 130px;
 }
