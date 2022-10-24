@@ -169,3 +169,28 @@ h5{
     width:1519px;
     background-repeat: no-repeat;
 }
+li{
+    list-style: none;
+
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.end{
+    margin-top:60px;
+}
+
+.last-b{
+    margin-top: 30px;
+    background-color: #F34949;
+    color: white;
+    border-radius:30px;
+    border-color: #F34949;
+    width:330px;
+    height:40px;
+}
+.last-b:hover{
+    background-color: #f70707;
+}
