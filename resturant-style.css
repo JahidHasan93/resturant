@@ -113,3 +113,59 @@ h5{
     gap:20px;
 
 }
+.bg{
+    background-image: url("img/testi-bg.jpg");
+    background-size:cover;
+    height:950px;
+    width:1519px;
+    background-repeat: no-repeat;
+    margin-top:200px;
+
+}
+.tree{
+    height:335px;
+    width: 299px;
+    box-shadow:6px 6px 6px rgb(219, 207, 207);
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    gap:80px;
+    margin-top:100px;
+}
+.form{
+    height: 700px;
+    width: 440px;
+    margin-left:150px;
+    margin-top:200px;
+    background-color: transparent;
+    
+}
+.f-1{
+    display: flex;
+    margin-left:30px;
+    padding:8px 70px;
+    
+}
+.f-2{
+    margin-left:30px;
+    padding:8px 92px;
+    margin-bottom:20px;
+    
+}
+.f-3{
+    margin-left:30px;
+    padding: 60px 70px;
+
+}
+.for{
+    margin-top: 30px;
+    margin-left:100px;
+}
+.res{
+    background-image: url("img/reservation-bg.jpg");
+    background-size:cover;
+    height:950px;
+    width:1519px;
+    background-repeat: no-repeat;
+}
