@@ -101,6 +101,11 @@ h5{
     border-radius:50%;
     height:60px;
     width:60px;
+    object-fit: cover;
+    transition:transform 400ms;
+}
+.egg:hover{
+    transform:scale(1.1,1.1);
 }
 .breakfast{
     display: grid;
